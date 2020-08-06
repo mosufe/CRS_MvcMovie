@@ -164,3 +164,10 @@ E:\Projetos\C#\MvcMovie\MvcMovie\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeA
 E:\Projetos\C#\MvcMovie\MvcMovie\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 E:\Projetos\C#\MvcMovie\MvcMovie\obj\Debug\netcoreapp3.1\MvcMovie.csproj.CoreCompileInputs.cache
 E:\Projetos\C#\MvcMovie\MvcMovie\obj\Debug\netcoreapp3.1\MvcMovie.MvcApplicationPartsAssemblyInfo.cache
+E:\Projetos\C#\MvcMovie\MvcMovie\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
+E:\Projetos\C#\MvcMovie\MvcMovie\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
+E:\Projetos\C#\MvcMovie\MvcMovie\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Create.cshtml.g.cs
+E:\Projetos\C#\MvcMovie\MvcMovie\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Delete.cshtml.g.cs
+E:\Projetos\C#\MvcMovie\MvcMovie\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Details.cshtml.g.cs
+E:\Projetos\C#\MvcMovie\MvcMovie\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Edit.cshtml.g.cs
+E:\Projetos\C#\MvcMovie\MvcMovie\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Index.cshtml.g.cs
