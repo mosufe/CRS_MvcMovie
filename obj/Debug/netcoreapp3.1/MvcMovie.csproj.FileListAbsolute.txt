@@ -12,8 +12,6 @@ E:\Projetos\C#\MvcMovie\MvcMovie\bin\Debug\netcoreapp3.1\MvcMovie.Views.pdb
 E:\Projetos\C#\MvcMovie\MvcMovie\obj\Debug\netcoreapp3.1\MvcMovie.csprojAssemblyReference.cache
 E:\Projetos\C#\MvcMovie\MvcMovie\obj\Debug\netcoreapp3.1\MvcMovie.AssemblyInfoInputs.cache
 E:\Projetos\C#\MvcMovie\MvcMovie\obj\Debug\netcoreapp3.1\MvcMovie.AssemblyInfo.cs
-E:\Projetos\C#\MvcMovie\MvcMovie\obj\Debug\netcoreapp3.1\MvcMovie.csproj.CoreCompileInputs.cache
-E:\Projetos\C#\MvcMovie\MvcMovie\obj\Debug\netcoreapp3.1\MvcMovie.MvcApplicationPartsAssemblyInfo.cache
 E:\Projetos\C#\MvcMovie\MvcMovie\obj\Debug\netcoreapp3.1\MvcMovie.RazorAssemblyInfo.cache
 E:\Projetos\C#\MvcMovie\MvcMovie\obj\Debug\netcoreapp3.1\MvcMovie.RazorAssemblyInfo.cs
 E:\Projetos\C#\MvcMovie\MvcMovie\obj\Debug\netcoreapp3.1\MvcMovie.TagHelpers.input.cache
